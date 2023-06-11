@@ -1,5 +1,7 @@
 ENVIRONMENT SETUP
 
+Use Node version >18 or 20
+
 DB SETUP
 
 1. if using docker composer for db: run "docker compose up -d"
