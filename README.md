@@ -2,6 +2,8 @@ ENVIRONMENT SETUP
 
 Use Node version >18 or 20
 
+Make .env files from .env.template files from root and app folder
+
 DB SETUP
 
 1. if using docker composer for db: run "docker compose up -d"
